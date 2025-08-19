@@ -316,7 +316,7 @@ export const projects = [
     image:
       "/Two good.png.png",
     category: "web app",
-    github: "https://github.com/robincoutinho1425/",
+    github: "https://github.com/robincoutinho1425/Two-Good",
    
   },
   {
@@ -328,7 +328,7 @@ export const projects = [
     image:
       "/rejoice.png.png",
     category: "web app",
-    github: "https://github.com/robincoutinho1425/",
+    github: "https://github.com/robincoutinho1425/Rejouice-App",
   },
   {
     id: 10,
@@ -349,22 +349,20 @@ export const projects = [
       "Developed a responsive Todo App using React for task management. Implemented features to add, edit, delete, and mark tasks as complete. Utilized React hooks for state management and component reusability. Enhanced UI with filtering options (All, Active, Completed) for better user experience.",
     image:
       "/todo.png.png",
-    category: "machine learning",
-    github: "https://github.com/robincoutinho1425/",
+    category: "web app",
+    github: "https://github.com/robincoutinho1425/Todo",
   },
-  // {
-  //   id: 5,
-  //   title: "Todo Web App",
-  //   date: "Jun 2021",
-  //   description:
-  //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-  //   image:
-  //     "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-  //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-  //   category: "web app",
-  //   github: "https://github.com/rishavchanda/Todo-Web-App",
-  //   webapp: "https://rishav-react-todo.netlify.app/",
-  // },
+  {
+    id: 5,
+    title: "Ayurvedic Medical Website",
+   date: "Aug 2024",
+    description:
+      "Built a  Ayurvedic website using React showcasing natural remedies and wellness information. Designed an intuitive and responsive UI with modern layouts and smooth navigation. Implemented reusable React components for better code structure and maintainability. Focused on clean design and optimized performance for a seamless user experience.",
+    image:
+      "/yoga.png.png",
+    category: "web app",
+    github: "https://github.com/robincoutinho1425/Yoga",
+  },
   // {
   //   id: 6,
   //   title: "Breaking Bad",
